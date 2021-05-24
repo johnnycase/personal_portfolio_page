@@ -1,2 +1,2 @@
-# johnnycase.github.io
+# HTML and CSS
 My personal portfolio page.
